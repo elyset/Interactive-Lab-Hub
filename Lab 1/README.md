@@ -71,10 +71,12 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Setting: The setting for all 3 interactions is in a room
-Interaction 1: 
-    Players: Me, phone, costume device, Ipad
-    Activity: The first activity is using the device as a gradient timer for studying. Once the timer is up, the lights flash blue.
+_Setting:_ The setting for all 3 interactions is in a room
+
+_Interaction 1:_ 
+
+_Players:_ Me, phone, costume device, Ipad
+    _Activity:_ The first activity is using the device as a gradient timer for studying. Once the timer is up, the lights flash blue.
     Goal: To have a visual and non-intrusive timer, in order to not both roomates 
 Interaction 2: 
     Players: Me, phone, costume device, mug, tea bag 
