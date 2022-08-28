@@ -76,16 +76,19 @@ _Setting:_ The setting for all 3 interactions is in a room
 _Interaction 1:_ 
 
 _Players:_ Me, phone, costume device, Ipad
-    _Activity:_ The first activity is using the device as a gradient timer for studying. Once the timer is up, the lights flash blue.
-    Goal: To have a visual and non-intrusive timer, in order to not both roomates 
-Interaction 2: 
-    Players: Me, phone, costume device, mug, tea bag 
-    Activity: The second activity is using the device as a gradient timer for simple cooking tasks such as steeping tea. Once the timer is up, the lights          flash blue.
-    Goal: To have a visual and non-intrusive timer, in order to not both roomates 
-Interaction 3: 
-    Players: Me, phone, costume device
-    Activity: The third activity is using the device as a gradient time for simple workouts you can do in the room, such as plants. Once the timer is up,           the lights flash blue.
-    Goal: To have a visual and non-intrusive timer, in order to not both roomates 
+
+_Activity:_ The first activity is using the device as a gradient timer for studying. Once the timer is up, the lights flash blue.
+_Goal:_ To have a visual and non-intrusive timer, in order to not both roomates 
+
+_Interaction 2:_
+_Players:_ Me, phone, costume device, mug, tea bag 
+_Activity:_ The second activity is using the device as a gradient timer for simple cooking tasks such as steeping tea. Once the timer is up, the lights          flash blue.
+_Goal:_ To have a visual and non-intrusive timer, in order to not both roomates 
+
+_Interaction 3:_ 
+_Players:_ Me, phone, costume device
+_Activity:_ The third activity is using the device as a gradient time for simple workouts you can do in the room, such as plants. Once the timer is up,           the lights flash blue.
+_Goal:_ To have a visual and non-intrusive timer, in order to not both roomates 
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
