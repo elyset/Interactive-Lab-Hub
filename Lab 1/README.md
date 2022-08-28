@@ -71,6 +71,20 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+Setting: The setting for all 3 interactions is in a room
+Interaction 1: 
+    Players: Me, phone, costume device, Ipad
+    Activity: The first activity is using the device as a gradient timer for studying. Once the timer is up, the lights flash blue.
+    Goal: To have a visual and non-intrusive timer, in order to not both roomates 
+Interaction 2: 
+    Players: Me, phone, costume device, mug, tea bag 
+    Activity: The second activity is using the device as a gradient timer for simple cooking tasks such as steeping tea. Once the timer is up, the lights          flash blue.
+    Goal: To have a visual and non-intrusive timer, in order to not both roomates 
+Interaction 3: 
+    Players: Me, phone, costume device
+    Activity: The third activity is using the device as a gradient time for simple workouts you can do in the room, such as plants. Once the timer is up,           the lights flash blue.
+    Goal: To have a visual and non-intrusive timer, in order to not both roomates 
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
