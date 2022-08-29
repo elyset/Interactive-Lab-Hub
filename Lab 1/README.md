@@ -139,7 +139,9 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-https://user-images.githubusercontent.com/61363525/187100906-4a5b1806-8b6a-4984-b3ac-83fb13995cf5.MOV
+
+
+https://user-images.githubusercontent.com/61363525/187100978-c41cd3eb-2412-4477-8a35-d6f2e291a7f1.mov
 
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
