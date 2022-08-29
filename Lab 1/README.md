@@ -103,6 +103,10 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 ![Storyboard_interaction1](https://user-images.githubusercontent.com/61363525/187099827-b54f8b6e-05b3-4b56-8ce4-0652539bc5d0.jpg)
 
+![Storyboard_interaction2](https://user-images.githubusercontent.com/61363525/187099938-41b3c8fb-17ee-44a0-919b-a8298be29ee4.jpg)
+
+![Storyboard_interaction3](https://user-images.githubusercontent.com/61363525/187099945-174660af-564a-4aa1-b6b5-e75cb4ed65a2.jpg)
+
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
@@ -135,10 +139,16 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+https://user-images.githubusercontent.com/61363525/187100442-96e94ece-bc09-4719-9e15-65b72e4ccaba.MOV
+
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
 
 \*\***Show the follow-up work here.**\*\*
 
+
+https://user-images.githubusercontent.com/61363525/187100582-fc394063-834e-4c2b-8cb9-b5159308804a.MP4
 
 ## Part E. Costume the device
 
@@ -147,13 +157,17 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![Costumed_Device_1](https://user-images.githubusercontent.com/61363525/187100592-3d151223-27f5-45b2-b953-6c6f76baf485.jpg)
+
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+I am conserned that parchment paper that I use will not be transparent enough for the light to shine through. I am also concerned that the structure won't be sturdy enough.
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
