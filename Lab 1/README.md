@@ -118,8 +118,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+The interaction with the plank seemed better on paper becuase when it was acted out in my room, I wasn't able to capture my whole body on the video due to the limited space I had in my room.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+I didn't come up with any new ideas while acting.
 
 ## Part C. Prototype the device
 
@@ -139,8 +142,6 @@ I really liked using Tinkerbelle eventhough I had a hard time setting it up in t
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
-
-
 
 https://user-images.githubusercontent.com/61363525/187100978-c41cd3eb-2412-4477-8a35-d6f2e291a7f1.mov
 
