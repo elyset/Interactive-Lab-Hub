@@ -170,6 +170,9 @@ I am conserned that parchment paper that I use will not be transparent enough fo
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+https://drive.google.com/file/d/1iS4VWnp2lFKQPw51kBVuc0yDG1hpKGYx/view?usp=sharing
+https://drive.google.com/file/d/1oXi0atjPwIww-sbdc5g--SmA5Ju_WjUZ/view?usp=sharing
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
