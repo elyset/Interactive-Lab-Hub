@@ -133,6 +133,7 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+I really liked using Tinkerbelle eventhough I had a hard time setting it up in the beginning. 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
