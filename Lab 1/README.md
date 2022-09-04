@@ -205,7 +205,7 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
-##Plan
+Plan:
 
 _Players:_ Me, phone, my sister, device, 
 
@@ -213,5 +213,23 @@ _Activity:_ The activity is sending a shot of light to someone to let them know 
 
 _Goal:_ To let the other person know they are awake so that you wouldn't bother them with texts while they are sleeping
 
+Storyboard: 
+
+![Storyboard_lab1part2](https://user-images.githubusercontent.com/61363525/188295589-d2f43b14-51aa-402b-b53c-f64d2adea3cb.jpg)
+![Storyboard Animation_lab1part2](https://user-images.githubusercontent.com/61363525/188295593-a0053f13-74f2-48cc-a331-41971b437c1e.gif)
+
+Prototype:
+
+https://user-images.githubusercontent.com/61363525/188295719-1409c45c-814b-4050-9873-0793821801ee.mov
+
+https://user-images.githubusercontent.com/61363525/188295774-7b56cf2b-b94a-4058-9cd7-9714eedbf2d2.mov
+
+Device Setup:
+
+![Device setup_lab1part2](https://user-images.githubusercontent.com/61363525/188295778-0fa8c641-6971-4a06-8250-cf1ad5edafa9.jpg)
+
+Video:
+
+https://user-images.githubusercontent.com/61363525/188295802-3d613577-7085-4396-9f21-9fd8211bafd0.mov
 
 
