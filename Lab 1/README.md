@@ -204,3 +204,14 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+##Plan
+
+_Players:_ Me, phone, my sister, device, 
+
+_Activity:_ The activity is sending a shot of light to someone to let them know that they are awake
+
+_Goal:_ To let the other person know they are awake so that you wouldn't bother them with texts while they are sleeping
+
+
+
