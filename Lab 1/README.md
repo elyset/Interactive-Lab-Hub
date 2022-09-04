@@ -230,6 +230,7 @@ Device Setup:
 
 Video:
 
-https://user-images.githubusercontent.com/61363525/188295802-3d613577-7085-4396-9f21-9fd8211bafd0.mov
+https://user-images.githubusercontent.com/61363525/188295868-db956d14-24dd-464d-ae1b-d36151ad5fb7.mov
+
 
 
