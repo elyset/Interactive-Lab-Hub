@@ -207,9 +207,14 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
+
+https://user-images.githubusercontent.com/61363525/190547311-eee077fb-6642-42fc-ae73-7f84e0650dc5.mov
+
+I am showing the time by converting it to seconds since mindight in word format. I change the colors with the button everytime I change a task. 
+
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
-
+![Brainstorm P2 Interactions](https://user-images.githubusercontent.com/61363525/190547339-424477d9-aa15-410f-92d7-0d227cb65865.jpg)
 
 # Prep for Part 2
 
@@ -227,5 +232,14 @@ Modify the code from last week's lab to make a new visual interface for your new
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+
+## Make a short video of your modified barebones PiClock
+
+
+https://user-images.githubusercontent.com/61363525/190547906-e9cbf05a-9228-46d6-8cb1-9b3875f79721.mov
+
+
+Compared to the first iteration, I changed the color of the letters to make the color difference more obvious. For this interaction, once you press the bottom button it repeats the time with each letter in a different color in order to make you pay attention to the time, if you want it to go back to normal, you click the other button and it goes back to telling the time in seconds from midnight in word form. 
+
 
 
