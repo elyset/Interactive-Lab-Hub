@@ -113,7 +113,12 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 \*\***Please describe and document your process.**\*\*\
 
--I started by braining storming what intereactions I watned.  
+-I started by braining storming what would create an interesting interacting in my apartment.
+-Settling on a mug and then started brainstormintg what the interactions were
+-After I decided, I drew the storyboard
+-After that I mapped out what the dialogue would be in Miro
+
+https://user-images.githubusercontent.com/61363525/192169969-7c25747e-cc4a-45e3-bfd4-67e9d2b4c16d.mov
 
 
 ### Acting out the dialogue
