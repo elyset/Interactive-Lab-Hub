@@ -125,7 +125,14 @@ https://user-images.githubusercontent.com/61363525/192169969-7c25747e-cc4a-45e3-
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
+https://user-images.githubusercontent.com/61363525/192171654-20a02008-817b-4b2f-98cb-ab1e525222ee.mov
+
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+The dialogue was different than what I expected becuase the participant asked what temperature the cup currently is and how long would it take to cool down. Here is my updated dialogue:
+
+![Screen Shot 2022-09-25 at 8 05 27 PM](https://user-images.githubusercontent.com/61363525/192171827-f042af44-3749-479b-a18f-c925f71c0f10.png)
+
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
