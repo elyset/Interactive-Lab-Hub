@@ -187,9 +187,7 @@ System:
 
 
 
-https://user-images.githubusercontent.com/61363525/193434387-437525b5-a22a-4595-904b-18a21144c11c.mov
-
-
+https://user-images.githubusercontent.com/61363525/193434404-a2a8df86-fafd-492f-bba1-daf584cf1ef6.mov
 
 Controller:
 ![Screen Shot 2022-10-01 at 8 46 11 PM](https://user-images.githubusercontent.com/61363525/193433286-06cd6c24-5301-4ae3-bb3e-e0a7650f5cc3.png)
