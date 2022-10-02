@@ -213,16 +213,25 @@ Answer the following:
 ### What worked well about the system and what didn't?
 \*\**your answer here*\*\*
 
-### What worked well about the controller and what didn't?
+What worked welI l was that the speaker was still loud enough for the user to hear what was happening. What didn't work well was that it was obvious that the sound wasn't coming out of a cup becuase of the pi and speaker that were close to it.
 
+### What worked well about the controller and what didn't?
 \*\**your answer here*\*\*
+
+The light controller was easy to use but it did cause delays, this goes for the sound controller also. It worked well and it was easy to use but it caused delays toggling between the light and sound controllers.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
 \*\**your answer here*\*\*
 
+It is hard to encorporate both sound an a visual element. It is also hard to predict what people will say to a device. The best way to figure this out is through user testing. 
+
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
+You could create a set of interactions based on a dataset of what people would usually say. If someone said something that's completely different than what other people are saying it could save the interaction save it into the database to use for the next time.
+
+Other sening moadlities that would make sense to capture are temperature of the cup, loudness of voice and distance to cup. This could help the cup better predict how loud it should project and when what temperature it should respond to when asked.
 
