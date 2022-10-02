@@ -162,7 +162,7 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 5. Make a new storyboard, diagram and/or script based on these reflections.
 
 Storyboard:
-
+![Untitled_Artwork 5](https://user-images.githubusercontent.com/61363525/193433704-2ecc7ad6-6df6-4dfd-be05-f20b7c605874.jpg)
 
 Diagram:
 ![image](https://user-images.githubusercontent.com/61363525/193433234-f5444941-ab89-450a-aa44-c1567c403d97.png)
