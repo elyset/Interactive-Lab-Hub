@@ -196,6 +196,13 @@ Controller:
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+
+
+https://user-images.githubusercontent.com/61363525/193434350-db5d7f67-8bc2-4b4d-9909-37933ed51cdb.mov
+
+https://user-images.githubusercontent.com/61363525/193434293-26479f0f-bac2-465c-9f68-fc4eefa45aa2.mov
+
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
