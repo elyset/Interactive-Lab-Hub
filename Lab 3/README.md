@@ -160,6 +160,7 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
       - One thing I could add is some sort of light source. When the cup is listening it oculd have a light so you know when the device is interacting with the user.
 
 5. Make a new storyboard, diagram and/or script based on these reflections.
+
 Storyboard:
 
 
@@ -182,8 +183,10 @@ This will work in 2 steps, the light and the response:
 
 *Include videos or screencaptures of both the system and the controller.*
 System:
+![IMG_F5791E7C7794-1](https://user-images.githubusercontent.com/61363525/193433362-7172f23e-376b-497f-ab55-999fd52277cb.jpeg)
 
-https://user-images.githubusercontent.com/61363525/193433277-d3bf6cf6-00fd-40e9-8996-b05e54ba615e.mov
+https://user-images.githubusercontent.com/61363525/193433348-0fd89fc9-39d8-4240-9208-b2da7f7cec23.mov
+
 
 
 Controller:
