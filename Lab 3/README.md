@@ -177,6 +177,7 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+
 This will work in 2 steps, the light and the response:
    - The light device that is wizarded is using tinkerbelle that was previously given. When the device is "listening" there will be a blue light underneith the cup. Once the device stops "listening" and is responding, there will no longer be a light.
    - The device will "listen" and produce a response from a series of pre-written responses written in sh files. The responses are controlled by me, running the sh files directly in the terminal. The responses will be coming out of the microphone connected to the pi.
