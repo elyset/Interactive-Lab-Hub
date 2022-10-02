@@ -195,6 +195,8 @@ https://user-images.githubusercontent.com/61363525/193434404-a2a8df86-fafd-492f-
 Controller:
 ![Screen Shot 2022-10-01 at 8 46 11 PM](https://user-images.githubusercontent.com/61363525/193433286-06cd6c24-5301-4ae3-bb3e-e0a7650f5cc3.png)
 ![Screen Shot 2022-10-01 at 8 48 23 PM](https://user-images.githubusercontent.com/61363525/193433321-96b92880-0e7e-4600-8f99-c905aaef2732.png)
+<img width="608" alt="Screen Shot 2022-10-01 at 9 54 13 PM" src="https://user-images.githubusercontent.com/61363525/193434517-5f32bf80-3c4b-4820-b676-34f04b5a1ddf.png">
+
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
