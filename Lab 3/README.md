@@ -150,8 +150,23 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
-2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
-3. Make a new storyboard, diagram and/or script based on these reflections.
+
+      - The wording of the cup's response is confusing and doesn't feel like real speech. It feels robotic and odd. I can change the phrases to better match the way people talk.
+      
+      - Misunderstandings could also happen. So a good way to make sure it doesn't happen is to add something where repeats the phrase.
+      
+3. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+
+      - One thing I could add is some sort of light source. When the cup is listening it oculd have a light so you know when the device is interacting with the user.
+
+5. Make a new storyboard, diagram and/or script based on these reflections.
+Storyboard:
+
+
+Diagram:
+![image](https://user-images.githubusercontent.com/61363525/193433234-f5444941-ab89-450a-aa44-c1567c403d97.png)
+
+
 
 ## Prototype your system
 
@@ -161,6 +176,9 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+This will work in 2 steps, the light and the response:
+   - The light device that is wizarded is using tinkerbelle that was previously given. When the device is "listening" there will be a blue light underneith the cup. Once the device stops "listening" and is responding, there will no longer be a light.
+   - The device will "listen" and produce a response from a series of pre-written responses written in sh files. The responses are controlled by me, running the sh files directly in the terminal. The responses will be coming out of the microphone connected to the pi.
 
 *Include videos or screencaptures of both the system and the controller.*
 
