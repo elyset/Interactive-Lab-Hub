@@ -181,6 +181,14 @@ This will work in 2 steps, the light and the response:
    - The device will "listen" and produce a response from a series of pre-written responses written in sh files. The responses are controlled by me, running the sh files directly in the terminal. The responses will be coming out of the microphone connected to the pi.
 
 *Include videos or screencaptures of both the system and the controller.*
+System:
+
+https://user-images.githubusercontent.com/61363525/193433277-d3bf6cf6-00fd-40e9-8996-b05e54ba615e.mov
+
+
+Controller:
+![Screen Shot 2022-10-01 at 8 46 11 PM](https://user-images.githubusercontent.com/61363525/193433286-06cd6c24-5301-4ae3-bb3e-e0a7650f5cc3.png)
+![Screen Shot 2022-10-01 at 8 48 23 PM](https://user-images.githubusercontent.com/61363525/193433321-96b92880-0e7e-4600-8f99-c905aaef2732.png)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
