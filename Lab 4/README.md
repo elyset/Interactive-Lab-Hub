@@ -245,19 +245,18 @@ When making my design I also chose to make the design in the shape of a dog bone
 
 **\*\*\*Document your rough prototype.\*\*\***
 
-![IMG_1371](https://user-images.githubusercontent.com/61363525/195276086-f678da3e-f254-4069-bc9e-4c675a579463.jpg)
-![IMG_1372](https://user-images.githubusercontent.com/61363525/195276314-439edca6-08cc-43eb-b7d9-5c5fb8f9327d.jpg)
-![IMG_1373](https://user-images.githubusercontent.com/61363525/195276339-1c3d817c-37d4-411a-911f-77135128578b.jpg)
-![IMG_1374](https://user-images.githubusercontent.com/61363525/195276364-d293d7c0-0b36-40bc-be36-fa60aab52cf6.jpg)
-
-![IMG_1375](https://user-images.githubusercontent.com/61363525/195276447-8ab551d4-6737-4e94-aedd-6b4afd31a575.jpg)
-![IMG_1376](https://user-images.githubusercontent.com/61363525/195276458-6b484b88-9916-42be-a20f-0b8654ebb2f2.jpg)
-![IMG_1377](https://user-images.githubusercontent.com/61363525/195276469-93d1eba0-8557-40f3-8313-8153e5d90605.jpg)
-![IMG_1378](https://user-images.githubusercontent.com/61363525/195276481-91f07578-cc81-432c-af89-d05217135151.jpg)
+![IMG_1371](https://user-images.githubusercontent.com/61363525/195277281-74296a52-19c2-4153-8582-e5ea1a17257a.jpg)
+![IMG_1372](https://user-images.githubusercontent.com/61363525/195277324-278c45b4-50ba-4b53-8ddc-f9fe830f1c40.jpg)
+![IMG_1373](https://user-images.githubusercontent.com/61363525/195277332-625db919-0689-4406-80a1-8c3e503c751f.jpg)
+![IMG_1374](https://user-images.githubusercontent.com/61363525/195277345-2fe52d73-9654-4c12-800e-20dab581f83a.jpg)
+![IMG_1375](https://user-images.githubusercontent.com/61363525/195277356-ce421600-8382-490a-b172-940eb4210ef9.jpg)
+![IMG_1376](https://user-images.githubusercontent.com/61363525/195277369-67f52042-ac06-405b-b9e8-b50f18e4501a.jpg)
+![IMG_1377](https://user-images.githubusercontent.com/61363525/195277378-fc4453de-de75-417b-bf13-78f6def53255.jpg)
 
 Final:
-![IMG_1379](https://user-images.githubusercontent.com/61363525/195276559-84060a8f-d7d3-4b58-9389-dd5a31f3adb1.jpg)
-![IMG_1379](https://user-images.githubusercontent.com/61363525/195276599-6f6c6d53-f94c-4a55-b20b-b9aa3021b527.jpg)
+![IMG_1378](https://user-images.githubusercontent.com/61363525/195277413-811ceff0-21f4-4dd7-8e75-dfda466b8025.jpg)
+![IMG_1379](https://user-images.githubusercontent.com/61363525/195277419-37ea02ab-a2ab-480a-bcec-e2cf79a131fb.jpg)
+
 
 
 LAB PART 2
