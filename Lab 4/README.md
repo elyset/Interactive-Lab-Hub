@@ -174,11 +174,16 @@ You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_VL53L
 Usually, sensors need to positioned in specific locations or orientations to make them useful for their application. Now that you've tried a bunch of the sensors, pick one that you would like to use, and an application where you use the output of that sensor for an interaction. For example, you can use a distance sensor to measure someone's height if you position it overhead and get them to stand under it.
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+![IMG_06B210F9B495-1](https://user-images.githubusercontent.com/61363525/195264213-8a67ac50-7203-41f2-a6af-c864efff35d0.jpeg)
+
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+How the joystick is positioned so it shows what the use is. For example, if the way the joystick should be used is on the table then it should have a flat bottom, but if it should be moved around it should be more circular. 
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+I am going to pick the design of the joystick that controlls the movement of something on the table. My idea is that the joystick will control on of my dogs toys so that he can chase it around becuase he loves to chase and he doesn't play with his toys if im not throwing it or its not moving. You should also be able to pick which toy you are controlling through the images on the screen. When you move left it should show a different toy and you select by clicking down.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
