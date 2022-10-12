@@ -225,15 +225,39 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![IMG_10ACC9BDFD5D-1](https://user-images.githubusercontent.com/61363525/195275306-c6336ee7-304c-42d2-9a93-5cd416e11c0c.jpeg)
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+I have questions about whether or not the pi and joystick will short circut if they are close to each other and how obvious is the height difference bewteen the joystick and the screen.
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+I am picking the first one.
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+I am picking the first one becuase the height difference is less obvious and the two board are not touching. I might need to prop up the joystick in order for it to match the height of the other components on the pi in order for the pi and joystick to look more like they are working together. 
 
 Build a cardbord prototype of your design.
 
+When making my design I also chose to make the design in the shape of a dog bone in order to show that it is for dog toys. I also made sure to make it big enough so that the pi and joystick fit inside perfectly and it doesn't obstruct the shape in any way.
+
 **\*\*\*Document your rough prototype.\*\*\***
+
+![IMG_1371](https://user-images.githubusercontent.com/61363525/195276086-f678da3e-f254-4069-bc9e-4c675a579463.jpg)
+![IMG_1372](https://user-images.githubusercontent.com/61363525/195276314-439edca6-08cc-43eb-b7d9-5c5fb8f9327d.jpg)
+![IMG_1373](https://user-images.githubusercontent.com/61363525/195276339-1c3d817c-37d4-411a-911f-77135128578b.jpg)
+![IMG_1374](https://user-images.githubusercontent.com/61363525/195276364-d293d7c0-0b36-40bc-be36-fa60aab52cf6.jpg)
+
+![IMG_1375](https://user-images.githubusercontent.com/61363525/195276447-8ab551d4-6737-4e94-aedd-6b4afd31a575.jpg)
+![IMG_1376](https://user-images.githubusercontent.com/61363525/195276458-6b484b88-9916-42be-a20f-0b8654ebb2f2.jpg)
+![IMG_1377](https://user-images.githubusercontent.com/61363525/195276469-93d1eba0-8557-40f3-8313-8153e5d90605.jpg)
+![IMG_1378](https://user-images.githubusercontent.com/61363525/195276481-91f07578-cc81-432c-af89-d05217135151.jpg)
+
+Final:
+![IMG_1379](https://user-images.githubusercontent.com/61363525/195276559-84060a8f-d7d3-4b58-9389-dd5a31f3adb1.jpg)
+![IMG_1379](https://user-images.githubusercontent.com/61363525/195276599-6f6c6d53-f94c-4a55-b20b-b9aa3021b527.jpg)
 
 
 LAB PART 2
