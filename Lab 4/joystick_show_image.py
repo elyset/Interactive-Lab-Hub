@@ -155,10 +155,10 @@ while True:
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     display_text = "Please toggle left to choose your desired toy."
-    draw.text((50, 50), display_text, font=font, fill="#FF00FF")
+    draw.text((0, 50), display_text, font=font, fill="#FF00FF")
 
     # Display image.
-    disp.image(image, 90)
+    disp.image(image)
 
     if has_moved_left(myJoystick):
         disp.image(image)
