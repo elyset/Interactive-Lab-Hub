@@ -97,15 +97,12 @@ disp = st7789.ST7789(
 
 # Create blank image for drawing.
 # Make sure to create image with mode 'RGB' for full color.
-# if disp.rotation % 180 == 90:
-#     height = disp.width  # we swap height/width to rotate it to landscape!
-#     width = disp.height
-# else:
-#     width = disp.width  # we swap height/width to rotate it to landscape!
-#     height = disp.height
-
-height = disp.width  # we swap height/width to rotate it to landscape!
-width = disp.height
+if disp.rotation % 180 == 90:
+    height = disp.width  # we swap height/width to rotate it to landscape!
+    width = disp.height
+else:
+    width = disp.width  # we swap height/width to rotate it to landscape!
+    height = disp.height
 image = Image.new("RGB", (width, height))
 
 # Get drawing object to draw on image.
@@ -113,7 +110,7 @@ draw = ImageDraw.Draw(image)
 
 # Draw a black filled box to clear the image.
 draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
-disp.image(image, 90)
+disp.image(image)
 
 image = Image.open("dog_bone3.jpeg")
 backlight = digitalio.DigitalInOut(board.D22)
@@ -122,10 +119,17 @@ backlight.value = True
 
 
 
-text_image = Image.new("RGB", (width, height))
+text_image = Image.new("RGB", (135, 240))
 text_draw = ImageDraw.Draw(text_image)
-text_draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
-disp.image(text_image)
+text_draw.rectangle((0, 0, 135, 240), outline=0, fill=(0, 0, 0))
+disp.image(text_image, 90)
+# Draw some shapes.
+# First define some constants to allow easy resizing of shapes.
+padding = -2
+top = padding
+bottom = height - padding
+# Move left to right keeping track of the current x position for drawing shapes.
+x = 0
 
 
 # Scale the image to the smaller screen dimension
@@ -164,11 +168,12 @@ while True:
     # Draw a black filled box to clear the image.
     text_draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
+    y = top
     display_text = "Please toggle left to choose your desired toy."
-    text_draw.text((0, 50), display_text, font=font, fill="#FF00FF")
+    text_draw.text((x, y), display_text, font=font, fill="#FF00FF")
 
     # Display image.
-    disp.image(text_image, 90)
+    disp.image(text_image)
 
     if has_moved_left(myJoystick):
         disp.image(image)
