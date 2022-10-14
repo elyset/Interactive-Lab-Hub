@@ -74,9 +74,35 @@ def has_moved_left(joystick):
         return True
     return False
 
+def has_moved_right(joystick):
+    if joystick.horizontal == 1023 and joystick.vertical == 506:
+        return True
+    return False
+
 
 def display_dog_bone():
     image = Image.open("dog_bone7.jpeg")
+    image_ratio = image.height / image.width
+
+    screen_ratio = height / width
+    if screen_ratio < image_ratio:
+        scaled_width = image.height * width // image.width
+        scaled_height = width
+    else:
+        scaled_width = height
+        scaled_height = image.width * height // image.height
+    image = image.resize((scaled_width, scaled_height), Image.BICUBIC)
+
+    # Crop and center the image
+    x = scaled_width // 2 - height // 2
+    y = scaled_height // 2 - width // 2
+    image = image.crop((x, y, x + height, y + width))
+    print(image.width, image.height)
+    # Display image.
+    disp.image(image)
+
+def display_dog_ball():
+    image = Image.open("tennisball.jpg")
     image_ratio = image.height / image.width
 
     screen_ratio = height / width
@@ -103,7 +129,7 @@ while True:
 
     # TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py
     y = top
-    display_text = "Please toggle left to choose desired toy."
+    display_text = "Please toggle left or right to choose desired toy."
     draw.text((x, y), display_text, font=font, fill="#FF00FF")
 
     # Display image.
@@ -111,7 +137,11 @@ while True:
     time.sleep(1)
 
     if has_moved_left(myJoystick):
-        print('within display')
         draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
         display_dog_bone()
-        time.sleep(50)
+        time.sleep(5)
+
+    if has_moved_right(myJoystick):
+        draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+        display_dog_ball()
+        time.sleep(5)
