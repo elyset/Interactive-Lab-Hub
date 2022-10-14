@@ -129,11 +129,14 @@ while True:
 
     # TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py
     y = top
-    display_text = "Please toggle left or"
+    display_text = "Please toggle left"
     draw.text((x, y), display_text, font=font, fill="#FF00FF")
     y += font.getsize(display_text)[1]
-    display_text2 = "right to choose desired toy."
+    display_text2 = "or right to choose desired toy."
     draw.text((x, y), display_text2, font=font, fill="#FF00FF")
+    y += font.getsize(display_text2)[1]
+    display_text3 = "desired toy."
+    draw.text((x, y), display_text3, font=font, fill="#FF00FF")
 
     # Display image.
     disp.image(image, rotation)
