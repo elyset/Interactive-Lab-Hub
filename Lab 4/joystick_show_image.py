@@ -118,6 +118,13 @@ backlight.switch_to_output()
 backlight.value = True
 
 
+
+text_image = Image.new("RGB", (width, height))
+text_draw = ImageDraw.Draw(text_image)
+text_draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+disp.image(image, 90)
+
+
 # Scale the image to the smaller screen dimension
 image_ratio = image.width / image.height
 screen_ratio = width / height
@@ -152,13 +159,13 @@ font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
 while True:
 
     # Draw a black filled box to clear the image.
-    draw.rectangle((0, 0, width, height), outline=0, fill=0)
+    text_draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     display_text = "Please toggle left to choose your desired toy."
-    draw.text((0, 50), display_text, font=font, fill="#FF00FF")
+    text_draw.text((0, 50), display_text, font=font, fill="#FF00FF")
 
     # Display image.
-    disp.image(image)
+    disp.image(text_image)
 
     if has_moved_left(myJoystick):
         disp.image(image)
