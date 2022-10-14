@@ -120,8 +120,8 @@ backlight.value = True
 
 
 text_image = Image.new("RGB", (135, 240))
-# text_draw = ImageDraw.Draw(text_image)
-# text_draw.rectangle((0, 0, 135, 240), outline=0, fill=(0, 0, 0))
+text_draw = ImageDraw.Draw(text_image)
+text_draw.rectangle((0, 0, 135, 240), outline=0, fill=(0, 0, 0))
 # disp.image(text_image, 90)
 # Draw some shapes.
 # First define some constants to allow easy resizing of shapes.
@@ -161,10 +161,10 @@ font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
 while True:
 
     # Draw a black filled box to clear the image.
-    draw.rectangle((0, 0, width, height), outline=0, fill=0)
+    text_draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     display_text = "Please toggle left to choose your desired toy."
-    draw.text((0, 50), display_text, font=font, fill="#FF00FF")
+    text_draw.text((0, 50), display_text, font=font, fill="#FF00FF")
 
     # Display image.
     disp.image(text_image)
