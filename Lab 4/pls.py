@@ -139,7 +139,7 @@ while True:
     if has_moved_left(myJoystick):
         draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
         display_dog_bone()
-        time.sleep(5)
+        time.sleep(50)
 
     if has_moved_right(myJoystick):
         draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
