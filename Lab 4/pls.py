@@ -102,7 +102,7 @@ def display_dog_bone():
     
     print(image.width, image.height)
     # Display image.
-    disp.image(image)
+    disp.image(image, 90)
 
 
 while True:
