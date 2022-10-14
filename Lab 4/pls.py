@@ -132,7 +132,7 @@ while True:
     display_text = "Please toggle left"
     draw.text((x, y), display_text, font=font, fill="#FF00FF")
     y += font.getsize(display_text)[1]
-    display_text2 = "or right to choose desired toy."
+    display_text2 = "or right to choose"
     draw.text((x, y), display_text2, font=font, fill="#FF00FF")
     y += font.getsize(display_text2)[1]
     display_text3 = "desired toy."
