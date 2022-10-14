@@ -77,21 +77,28 @@ def has_moved_left(joystick):
 
 def display_dog_bone():
     image = Image.open("dog_bone3.jpeg")
-    image_ratio = image.width / image.height
 
-    screen_ratio = width / height
+    disp_height = width
+    disp_width = height
+
+    image_width = image.height
+    image_height = image.width
+
+    image_ratio = image_width / image_height
+
+    screen_ratio = disp_width / disp_height
     if screen_ratio < image_ratio:
-        scaled_width = image.width * height // image.height
-        scaled_height = height
+        scaled_width = image_width * disp_height // image_height
+        scaled_height = disp_height
     else:
-        scaled_width = width
-        scaled_height = image.height * width // image.width
+        scaled_width = disp_width
+        scaled_height = image_height * disp_width // image_width
     image = image.resize((scaled_width, scaled_height), Image.BICUBIC)
 
     # Crop and center the image
-    x = scaled_width // 2 - width // 2
-    y = scaled_height // 2 - height // 2
-    image = image.crop((x, y, x + width, y + height))
+    x = scaled_width // 2 - disp_width // 2
+    y = scaled_height // 2 - disp_height // 2
+    image = image.crop((x, y, x + disp_width, y + disp_height))
     
     print(image.width, image.height)
     # Display image.
