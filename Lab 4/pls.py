@@ -131,6 +131,7 @@ while True:
     y = top
     display_text = "Please toggle left or"
     draw.text((x, y), display_text, font=font, fill="#FF00FF")
+    y += font.getsize(display_text)[1]
     display_text2 = "right to choose desired toy."
     draw.text((x, y), display_text2, font=font, fill="#FF00FF")
 
