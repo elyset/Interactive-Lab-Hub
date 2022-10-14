@@ -58,7 +58,7 @@ x = 0
 # same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
 font = ImageFont.truetype(
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 35)
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 25)
 
 # Turn on the backlight
 backlight = digitalio.DigitalInOut(board.D22)
