@@ -58,7 +58,7 @@ x = 0
 # same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
 font = ImageFont.truetype(
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 35)
 
 # Turn on the backlight
 backlight = digitalio.DigitalInOut(board.D22)
@@ -129,8 +129,10 @@ while True:
 
     # TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py
     y = top
-    display_text = "Please toggle left or right to choose desired toy."
+    display_text = "Please toggle left or"
     draw.text((x, y), display_text, font=font, fill="#FF00FF")
+    display_text2 = "right to choose desired toy."
+    draw.text((x, y), display_text2, font=font, fill="#FF00FF")
 
     # Display image.
     disp.image(image, rotation)
@@ -144,4 +146,4 @@ while True:
     if has_moved_right(myJoystick):
         draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
         display_dog_ball()
-        time.sleep(5)
+        time.sleep(3)
