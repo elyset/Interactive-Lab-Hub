@@ -150,8 +150,15 @@ print("Initialized. Firmware Version: %s" % myJoystick.version)
 font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
 
 while True:
+
+    # Draw a black filled box to clear the image.
+    draw.rectangle((0, 0, width, height), outline=0, fill=0)
+
     display_text = "Please toggle left to choose your desired toy."
     draw.text((50, 50), display_text, font=font, fill="#FF00FF")
+
+    # Display image.
+    disp.image(image, 90)
 
     if has_moved_left(myJoystick):
         disp.image(image)
