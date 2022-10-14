@@ -170,5 +170,6 @@ while True:
     disp.image(text_image)
 
     if has_moved_left(myJoystick):
+        text_draw.rectangle((0, 0, width, height), outline=0, fill=0)
         disp.image(image)
         # Display image.
