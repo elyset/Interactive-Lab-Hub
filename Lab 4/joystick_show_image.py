@@ -13,7 +13,7 @@ Author(s): Melissa LeBlanc-Williams for Adafruit Industries
 from __future__ import print_function
 import digitalio
 import board
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 import adafruit_rgb_display.ili9341 as ili9341
 import adafruit_rgb_display.st7789 as st7789  # pylint: disable=unused-import
 import adafruit_rgb_display.hx8357 as hx8357  # pylint: disable=unused-import
@@ -144,7 +144,15 @@ myJoystick.begin()
 
 print("Initialized. Firmware Version: %s" % myJoystick.version)
 
+# Alternatively load a TTF font.  Make sure the .ttf font file is in the
+# same directory as the python script!
+# Some other nice fonts to try: http://www.dafont.com/bitmap.php
+font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
+
 while True:
+    display_text = "Please toggle left to choose your desired toy."
+    draw.text((50, 50), display_text, font=font, fill="#FF00FF")
+
     if has_moved_left(myJoystick):
         disp.image(image)
         # Display image.
