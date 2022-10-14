@@ -10,7 +10,7 @@ not support PIL/pillow (python imaging library)!
 
 Author(s): Melissa LeBlanc-Williams for Adafruit Industries
 """
-
+from __future__ import print_function
 import digitalio
 import board
 from PIL import Image, ImageDraw
@@ -20,7 +20,6 @@ import adafruit_rgb_display.hx8357 as hx8357  # pylint: disable=unused-import
 import adafruit_rgb_display.st7735 as st7735  # pylint: disable=unused-import
 import adafruit_rgb_display.ssd1351 as ssd1351  # pylint: disable=unused-import
 import adafruit_rgb_display.ssd1331 as ssd1331  # pylint: disable=unused-import
-from __future__ import print_function
 import qwiic_joystick
 import time
 import sys
