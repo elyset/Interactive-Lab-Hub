@@ -28,7 +28,7 @@ import sys
 
 
 def has_moved_left(joystick):
-    if joystick.horzontal == 0 and joystick.vertical == 506:
+    if joystick.horizontal == 0 and joystick.vertical == 506:
         return True
     return False
 
