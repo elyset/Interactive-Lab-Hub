@@ -76,7 +76,7 @@ def has_moved_left(joystick):
 
 
 def display_dog_bone():
-    image = Image.open("dog_bone6.jpeg")
+    image = Image.open("dog_bone7.jpeg")
     image_ratio = image.height / image.width
 
     screen_ratio = height / width
