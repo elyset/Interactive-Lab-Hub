@@ -122,3 +122,4 @@ while True:
         print('within display')
         draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
         display_dog_bone()
+        time.sleep(50)
