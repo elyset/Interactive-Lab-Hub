@@ -92,7 +92,8 @@ def display_dog_bone():
     x = scaled_width // 2 - width // 2
     y = scaled_height // 2 - height // 2
     image = image.crop((x, y, x + width, y + height))
-
+    
+    print(image.width, image.height)
     # Display image.
     disp.image(image)
 
