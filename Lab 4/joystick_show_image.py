@@ -109,8 +109,8 @@ image = Image.new("RGB", (width, height))
 draw = ImageDraw.Draw(image)
 
 # Draw a black filled box to clear the image.
-# draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
-# disp.image(image)
+draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+disp.image(image)
 
 image = Image.open("dog_bone3.jpeg")
 backlight = digitalio.DigitalInOut(board.D22)
@@ -120,16 +120,11 @@ backlight.value = True
 
 
 text_image = Image.new("RGB", (135, 240))
-text_draw = ImageDraw.Draw(text_image)
-text_draw.rectangle((0, 0, 135, 240), outline=0, fill=(0, 0, 0))
-disp.image(text_image, 90)
+# text_draw = ImageDraw.Draw(text_image)
+# text_draw.rectangle((0, 0, 135, 240), outline=0, fill=(0, 0, 0))
+# disp.image(text_image, 90)
 # Draw some shapes.
 # First define some constants to allow easy resizing of shapes.
-padding = -2
-top = padding
-bottom = height - padding
-# Move left to right keeping track of the current x position for drawing shapes.
-x = 0
 
 
 # Scale the image to the smaller screen dimension
@@ -166,14 +161,13 @@ font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
 while True:
 
     # Draw a black filled box to clear the image.
-    text_draw.rectangle((0, 0, width, height), outline=0, fill=0)
+    draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
-    y = top
     display_text = "Please toggle left to choose your desired toy."
-    text_draw.text((x, y), display_text, font=font, fill="#FF00FF")
+    draw.text((0, 50), display_text, font=font, fill="#FF00FF")
 
     # Display image.
-    disp.image(text_image, 90)
+    disp.image(text_image)
 
     if has_moved_left(myJoystick):
         disp.image(image)
