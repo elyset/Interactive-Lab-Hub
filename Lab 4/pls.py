@@ -91,7 +91,7 @@ def display_dog_bone():
     # Crop and center the image
     x = scaled_width // 2 - height // 2
     y = scaled_height // 2 - width // 2
-    image = image.crop((x, y, x + height, y + width))
+    image = image.crop((y, x, y + height, x + width))
 
     print(image.width, image.height)
     # Display image.
@@ -115,3 +115,4 @@ while True:
         print('within display')
         draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
         display_dog_bone()
+        time.sleep(50)
