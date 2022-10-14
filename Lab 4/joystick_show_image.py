@@ -122,7 +122,7 @@ backlight.value = True
 text_image = Image.new("RGB", (width, height))
 text_draw = ImageDraw.Draw(text_image)
 text_draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
-disp.image(image)
+disp.image(text_image)
 
 
 # Scale the image to the smaller screen dimension
