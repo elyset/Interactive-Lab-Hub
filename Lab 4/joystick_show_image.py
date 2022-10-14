@@ -167,9 +167,10 @@ while True:
     text_draw.text((0, 50), display_text, font=font, fill="#FF00FF")
 
     # Display image.
-    disp.image(text_image)
+    disp.image(text_image, 90)
 
     if has_moved_left(myJoystick):
         text_draw.rectangle((0, 0, width, height), outline=0, fill=0)
+        print('inside')
         disp.image(image)
         # Display image.
