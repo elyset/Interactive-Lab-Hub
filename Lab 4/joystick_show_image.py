@@ -109,8 +109,8 @@ image = Image.new("RGB", (width, height))
 draw = ImageDraw.Draw(image)
 
 # Draw a black filled box to clear the image.
-draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
-disp.image(image)
+# draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+# disp.image(image)
 
 image = Image.open("dog_bone3.jpeg")
 backlight = digitalio.DigitalInOut(board.D22)
@@ -173,7 +173,7 @@ while True:
     text_draw.text((x, y), display_text, font=font, fill="#FF00FF")
 
     # Display image.
-    disp.image(text_image)
+    disp.image(text_image, 90)
 
     if has_moved_left(myJoystick):
         disp.image(image)
