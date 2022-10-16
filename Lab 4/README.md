@@ -315,11 +315,24 @@ The left one is my previous prorotype and the one on the right is my new proroty
 Additionally, I made some changes on the inside of the prototype.
 ![IMG_8B5B5F37C97A-1](https://user-images.githubusercontent.com/61363525/196053929-062499f8-279b-4a4e-9125-4cdf89d70303.jpeg)
 
-One of the considerations that I made while choosing where the joystick would be placed relatively to the pi, I learned that I couldn't stack the pi directly onto the top of the pi becuase it caused my pi to short circut temporality. After that, I knew that the joystick would have to be next to the pi. Also, since there are the really large ports on the pi, it gave the pi some more height so in order to have the pi screen showing and the joystick be reachable, I had to raise the joystick up to the same height as the ports on the pi. Originally I stacked scrap pieces of cardboard I had lying around and then taped them together(pink line). But, this time around I decided to clearn that up and cut pieces that were the shape and hot-glued them together instead of taping. Hotglueing really made the pieces sturdy enough for the joystick to stick comfortably ontop of it. The other thing I changed was the pieces of chardboard I used to hold the differet components in place so it wouldn't slide around inside the prototype. 
+One of the considerations that I made while choosing where the joystick would be placed relatively to the pi, I learned that I couldn't stack the pi directly onto the top of the pi becuase it caused my pi to short circut temporality. After that, I knew that the joystick would have to be next to the pi. Also, since there are the really large ports on the pi, it gave the pi some more height so in order to have the pi screen showing and the joystick be reachable, I had to raise the joystick up to the same height as the ports on the pi. Originally I stacked scrap pieces of cardboard I had lying around and then taped them together(pink line). But, this time around I decided to clearn that up and cut pieces that were the shape and hot-glued them together instead of taping. Hotglueing really made the pieces sturdy enough for the joystick to stick comfortably ontop of it. The other thing I changed was the pieces of chardboard I used to hold the differet components in place so it wouldn't slide around inside the prototype (dark blue circled). I added this becuase the pi was sliding around inside the protytpe and made it hard to always see the screen. It made sure that everything was surdy and in place. 
+
+In order to show my dog's tennis ball moving, I hotglued nylon invidible thread onto the ball so that the viewer wouldn't be able to see the wizard interaction with the ball. 
+![IMG_1435 2](https://user-images.githubusercontent.com/61363525/196054368-9d39df58-088d-496b-b833-f3d4a069da50.jpg)
+
 
 * "Works like": shows what the device can do
+
+When you start the program a promp shows up saying "Please toggle left or right to choose desired toy." When you toggle left you see a bone, if you want to select that toy to move, you click down and select the toy then you will be able to control it. When you toggle right you will see a tennis ball, if you want to control that toy you do the same thing, click down and then start moving the toy. If you toggle left and don't want to choose that toy, you just toggle right to go back to the instruction screen. The same goes for if you toggle right. You can toggle left to go back to the start screen. Watch the interaction below.
+
 * "Acts like": shows how a person would interact with the device
 
 Storyboard of how someone would interact with the device:
 ![Untitled_Artwork 6](https://user-images.githubusercontent.com/61363525/196053554-16459a0e-2fd0-4746-9c15-fe1961ec12f1.jpg)
+
+
+Interaction:
+
+https://user-images.githubusercontent.com/61363525/196054698-bddc3980-d295-464b-9ca6-a902a2854b6b.mov
+
 
