@@ -299,7 +299,15 @@ We encourage you to try using these controls, **while** paying particular attent
 ### Record
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
+
+
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+![IMG_1B40D8185A06-1](https://user-images.githubusercontent.com/61363525/196053564-73886a89-7a9a-40aa-a4ff-effdb011a6a0.jpeg)
+
+
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
+
+Storyboard of how someone would interact with the device:
+![Untitled_Artwork 6](https://user-images.githubusercontent.com/61363525/196053554-16459a0e-2fd0-4746-9c15-fe1961ec12f1.jpg)
 
