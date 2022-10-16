@@ -306,7 +306,7 @@ This is what it shoud look like:
 
 ![IMG_1B40D8185A06-1](https://user-images.githubusercontent.com/61363525/196053564-73886a89-7a9a-40aa-a4ff-effdb011a6a0.jpeg)
 
-I based the design around a bone to represent something for a dog. I also made sure to curve the edges so that it would have more of the 3-dimensional shape a bone would natuarlly have. This is one of the new iterations I made on the design of my prototype. This is what they look like in comparison:
+I based the design around a bone to represent something for a dog. I also made sure to curve the edges so that it would have more of the 3-dimensional shape a bone would natuarlly have. But at the same time, I didn't want it to be too curved becuase it should still sit flat on the table. This is one of the new iterations I made on the design of my prototype. This is what they look like in comparison:
 
 ![IMG_FBF118FEAF89-1](https://user-images.githubusercontent.com/61363525/196053660-54167189-659c-49eb-9bb6-08becb823914.jpeg)
 
