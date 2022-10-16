@@ -300,10 +300,19 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 
-
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+
+This is what it shoud look like:
+
 ![IMG_1B40D8185A06-1](https://user-images.githubusercontent.com/61363525/196053564-73886a89-7a9a-40aa-a4ff-effdb011a6a0.jpeg)
 
+I based the design around a bone to represent something for a dog. I also made sure to curve the edges so that it would have more of the 3-dimensional shape a bone would natuarlly have. This is one of the new iterations I made on the design of my prototype. This is what they look like in comparison:
+
+![IMG_FBF118FEAF89-1](https://user-images.githubusercontent.com/61363525/196053660-54167189-659c-49eb-9bb6-08becb823914.jpeg)
+
+The left one is my previous prorotype and the one on the right is my new prorotype. As you can see, the fist one was more stiff and flat while my second iteration has more curves to more accurately emulate the shape of a bone. In order to create the curved shape on such a stiff material, I cut slits in the cardboard so that it would be able to curve. The two ends of the bone have cross-hatching cuts so that it could cuve in more than one direction. I did this becuase I wanted the ends to be more circular so it would need to surve in multiple direction to have that effect. The middle area only has straight line cuts becuase I needed that area to curve in one direction so straight line cuts was sufficient. Also, I have decided hotglue the edges together instead of using a separate piece to connect the top and bottom pieces. This is becuase since I was able to curve the edges, I could make the edges meet without an extra piece. It makes the prorotype look more seamless.
+
+Additionally, I made more changes on the 
 
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
