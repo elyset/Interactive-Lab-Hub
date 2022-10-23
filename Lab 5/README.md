@@ -102,6 +102,19 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
 
+![Screen Shot 2022-10-22 at 6 06 30 PM](https://user-images.githubusercontent.com/61363525/197401257-5d7c5dd4-80dd-4053-ad28-2c55b9522638.png)
+you can use this to aid artists for their conyour drawings. 
+
+![Screen Shot 2022-10-22 at 6 09 20 PM](https://user-images.githubusercontent.com/61363525/197401294-8ae1574b-1b9a-45b6-8804-e400a841f49c.png)
+This can be used to find people.
+
+![Screen Shot 2022-10-22 at 6 15 35 PM](https://user-images.githubusercontent.com/61363525/197401328-521f1838-4171-414a-9262-e5a611eb705e.png)
+This tracks the montion of things on the scree. It can track where people are going within the camera.
+
+![Screen Shot 2022-10-22 at 6 17 30 PM](https://user-images.githubusercontent.com/61363525/197401353-5b7ef453-1ff4-4c70-95ed-346df6cab0ed.png)
+This can detect if somthing is in the camera. For example, you can use it to detect if a apple is in the frame and then determine how ripe it is. 
+
+
 #### Filtering, FFTs, and Time Series data. 
 Additional filtering and analysis can be done on the sensors that were provided in the kit. For example, running a Fast Fourier Transform over the IMU or Microphone data stream could create a simple activity classifier between walking, running, and standing.
 
