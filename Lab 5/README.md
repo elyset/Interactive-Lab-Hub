@@ -238,25 +238,36 @@ This might take a while to get fully installed. After installation, connect your
 * Pick one of the models you have tried, and experiment with prototyping an interaction.
 * This can be as simple as the boat detector showen in a previous lecture from Nikolas Matelaro.
 * Try out different interaction outputs and inputs.
-* Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.](ThinkingThroughContextandInteraction.png)
+* Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.]
+(ThinkingThroughContextandInteraction.png)
+![ThinkingThroughContextandInteraction](https://user-images.githubusercontent.com/61363525/197403478-fdf49ac8-4931-4ffc-a8e8-03761c4c51e5.png)
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
+The user would start the program, and then it would print out a prompt that says "This program will help you learn how to draw your contours." It will then automatically screenshot it for you do the user and draw their contour.
 
 ### Part C
 ### Test the interaction prototype
 
 Now flight test your interactive prototype and **note down your observations**:
 For example:
-1. When does it what it is supposed to do?
+1. When does it dp what it is supposed to do?
+When the user understands what is happening
 1. When does it fail?
+when the user is confused
 1. When it fails, why does it fail?
+When the user is confused about the instructions
 1. Based on the behavior you have seen, what other scenarios could cause problems?
+When the user doesn't pay attention to the instructions.
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
+No
 1. How bad would they be impacted by a miss classification?
+Not to bad, it is a pretty intutitve program.
 1. How could change your interactive system to address this?
+Make the instructions clearer
 1. Are there optimizations you can try to do on your sense-making algorithm.
+Make the instructions clearer
 
 ### Part D
 ### Characterize your own Observant system
@@ -264,9 +275,13 @@ For example:
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
 * What can you use X for?
+Drawing
 * What is a good environment for X?
+At a desk
 * What is a bad environment for X?
+Busy room
 * When will X break?
+
 * When it breaks how will X break?
 * What are other properties/behaviors of X?
 * How does X feel?
