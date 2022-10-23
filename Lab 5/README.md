@@ -240,7 +240,9 @@ This might take a while to get fully installed. After installation, connect your
 * Try out different interaction outputs and inputs.
 * Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.]
 (ThinkingThroughContextandInteraction.png)
-![ThinkingThroughContextandInteraction](https://user-images.githubusercontent.com/61363525/197403478-fdf49ac8-4931-4ffc-a8e8-03761c4c51e5.png)
+
+<img width="642" alt="Screen Shot 2022-10-23 at 12 18 04 PM" src="https://user-images.githubusercontent.com/61363525/197404497-7c48b5c7-eb18-42c9-930c-bf1e27c2de6c.png">
+
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 The user would start the program, and then it would print out a prompt that says "This program will help you learn how to draw your contours." It will then automatically screenshot it for you do the user and draw their contour.
@@ -281,7 +283,6 @@ At a desk
 * What is a bad environment for X?
 Busy room
 * When will X break?
-
 * When it breaks how will X break?
 * What are other properties/behaviors of X?
 * How does X feel?
