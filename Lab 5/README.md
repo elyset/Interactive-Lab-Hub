@@ -281,11 +281,20 @@ Drawing
 * What is a good environment for X?
 At a desk
 * What is a bad environment for X?
-Busy room
+too many things in the camera view
 * When will X break?
+not very often
 * When it breaks how will X break?
+unexpected failure 
 * What are other properties/behaviors of X?
+nothing else
 * How does X feel?
+calming
+
+
+
+https://user-images.githubusercontent.com/61363525/197407313-0d102e88-c1ec-420f-8555-ada816dfd667.mov
+The video is at a desk with not a lot of things around. It shows that x is for drawing. The video shows that if there are more than what you want to draw in the screen, it doesn't work as well.
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
