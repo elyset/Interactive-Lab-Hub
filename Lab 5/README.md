@@ -302,4 +302,8 @@ The video is at a desk with not a lot of things around. It shows that x is for d
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
+Storyboard:
+![IMG_7A90D79FDDE7-1](https://user-images.githubusercontent.com/61363525/198840340-f97b49a9-7397-4cf7-993a-2a6b003ee301.jpeg)
+
+
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
