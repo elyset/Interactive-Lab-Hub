@@ -305,5 +305,7 @@ Following exploration and reflection from Part 1, finish building your interacti
 Storyboard:
 ![IMG_7A90D79FDDE7-1](https://user-images.githubusercontent.com/61363525/198840340-f97b49a9-7397-4cf7-993a-2a6b003ee301.jpeg)
 
+Notes:
+A big concern that I had was that the user wouldn't understand what to do with the interaction. So I added some instructions once you start the program.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
