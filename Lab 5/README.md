@@ -102,6 +102,19 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
 
+![Screen Shot 2022-10-22 at 6 06 30 PM](https://user-images.githubusercontent.com/61363525/197401257-5d7c5dd4-80dd-4053-ad28-2c55b9522638.png)
+you can use this to aid artists for their conyour drawings. 
+
+![Screen Shot 2022-10-22 at 6 09 20 PM](https://user-images.githubusercontent.com/61363525/197401294-8ae1574b-1b9a-45b6-8804-e400a841f49c.png)
+This can be used to find people.
+
+![Screen Shot 2022-10-22 at 6 15 35 PM](https://user-images.githubusercontent.com/61363525/197401328-521f1838-4171-414a-9262-e5a611eb705e.png)
+This tracks the montion of things on the scree. It can track where people are going within the camera.
+
+![Screen Shot 2022-10-22 at 6 17 30 PM](https://user-images.githubusercontent.com/61363525/197401353-5b7ef453-1ff4-4c70-95ed-346df6cab0ed.png)
+This can detect if somthing is in the camera. For example, you can use it to detect if a apple is in the frame and then determine how ripe it is. 
+
+
 #### Filtering, FFTs, and Time Series data. 
 Additional filtering and analysis can be done on the sensors that were provided in the kit. For example, running a Fast Fourier Transform over the IMU or Microphone data stream could create a simple activity classifier between walking, running, and standing.
 
@@ -225,25 +238,38 @@ This might take a while to get fully installed. After installation, connect your
 * Pick one of the models you have tried, and experiment with prototyping an interaction.
 * This can be as simple as the boat detector showen in a previous lecture from Nikolas Matelaro.
 * Try out different interaction outputs and inputs.
-* Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.](ThinkingThroughContextandInteraction.png)
+* Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.]
+(ThinkingThroughContextandInteraction.png)
+
+<img width="642" alt="Screen Shot 2022-10-23 at 12 18 04 PM" src="https://user-images.githubusercontent.com/61363525/197404497-7c48b5c7-eb18-42c9-930c-bf1e27c2de6c.png">
+
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
+The user would start the program, and then it would print out a prompt that says "This program will help you learn how to draw your contours." It will then automatically screenshot it for you do the user and draw their contour.
 
 ### Part C
 ### Test the interaction prototype
 
 Now flight test your interactive prototype and **note down your observations**:
 For example:
-1. When does it what it is supposed to do?
+1. When does it dp what it is supposed to do?
+When the user understands what is happening
 1. When does it fail?
+when the user is confused
 1. When it fails, why does it fail?
+When the user is confused about the instructions
 1. Based on the behavior you have seen, what other scenarios could cause problems?
+When the user doesn't pay attention to the instructions.
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
+No
 1. How bad would they be impacted by a miss classification?
+Not to bad, it is a pretty intutitve program.
 1. How could change your interactive system to address this?
+Make the instructions clearer
 1. Are there optimizations you can try to do on your sense-making algorithm.
+Make the instructions clearer
 
 ### Part D
 ### Characterize your own Observant system
@@ -251,17 +277,35 @@ For example:
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
 * What can you use X for?
+Drawing
 * What is a good environment for X?
+At a desk
 * What is a bad environment for X?
+too many things in the camera view
 * When will X break?
+not very often
 * When it breaks how will X break?
+unexpected failure 
 * What are other properties/behaviors of X?
+nothing else
 * How does X feel?
+calming
+
+
+
+https://user-images.githubusercontent.com/61363525/197407313-0d102e88-c1ec-420f-8555-ada816dfd667.mov
+The video is at a desk with not a lot of things around. It shows that x is for drawing. The video shows that if there are more than what you want to draw in the screen, it doesn't work as well.
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
+
+Storyboard:
+![IMG_7A90D79FDDE7-1](https://user-images.githubusercontent.com/61363525/198840340-f97b49a9-7397-4cf7-993a-2a6b003ee301.jpeg)
+
+Notes:
+A big concern that I had was that the user wouldn't understand what to do with the interaction. So I added some instructions once you start the program.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
