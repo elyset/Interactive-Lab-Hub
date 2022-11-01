@@ -306,6 +306,15 @@ Storyboard:
 ![IMG_7A90D79FDDE7-1](https://user-images.githubusercontent.com/61363525/198840340-f97b49a9-7397-4cf7-993a-2a6b003ee301.jpeg)
 
 Notes:
-A big concern that I had was that the user wouldn't understand what to do with the interaction. So I added some instructions once you start the program.
+A big concern that I had was that the user wouldn't understand what to do with the interaction. So I added some instructions once you start the program. The instructions read "Please screenshot the contour that you would like to draw". In addition, I had to resize the window so that the user would be able to see what the instructions are. When I resized the window, the top bar that gave the instructions for closing the window disappeared, so I added the instructions for that beneath the instructions for how to use the program.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+https://drive.google.com/file/d/16InRUkYO3vXt6gOS-DzWi_BFflGLhkzc/view?usp=sharing
+
+This is the picture I was able to draw with the aid of the contour program. It allowed me to study where the shadows were. It gave me a better idea of how to draw shadows on your hand through color blocking.
+
+![IMG_1704](https://user-images.githubusercontent.com/61363525/198891125-09d4a0b3-02e3-4cf3-b137-fd0c883b3049.jpg)
+
+
+
