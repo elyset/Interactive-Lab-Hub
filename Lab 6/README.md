@@ -122,8 +122,6 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
  ```
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
-<img width="265" alt="Screen Shot 2022-11-03 at 3 00 28 PM" src="https://user-images.githubusercontent.com/61363525/199810955-09ff0ada-37b6-4c43-a67b-312a87194a43.png">
-![IMG_1743](https://user-images.githubusercontent.com/61363525/199811323-cde8bee9-168c-4aa3-b545-76d2f4d3a0d9.jpg)
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
