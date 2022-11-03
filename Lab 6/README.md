@@ -122,6 +122,8 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
  ```
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
+<img width="265" alt="Screen Shot 2022-11-03 at 3 00 28 PM" src="https://user-images.githubusercontent.com/61363525/199810955-09ff0ada-37b6-4c43-a67b-312a87194a43.png">
+![IMG_1743](https://user-images.githubusercontent.com/61363525/199811323-cde8bee9-168c-4aa3-b545-76d2f4d3a0d9.jpg)
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
@@ -164,6 +166,8 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
+
+If you pick up your shoes, it wills end a message reminding you to bring your keys. Because when you leave you need to wear shoes so this way you won't leave the apartment without bringing your keys. 
 
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
