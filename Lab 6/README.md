@@ -168,6 +168,7 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
 
+This is the read_color.py file.
 
 ### Part E
 ### Make it your own
@@ -176,7 +177,7 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
-If you pick up your shoes, it wills end a message reminding you to bring your keys. Because when you leave you need to wear shoes so this way you won't leave the apartment without bringing your keys.
+If you take your shoes from the shoe rack and put them on the floor, the system will send you a message saying reminding you to pick up your keys before you leave the house. The reason why it I want the system to detect when you put the shoes on the floor is becuase you need to put on your shoes before you leave the house, so having message set off after that works well. 
 
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
