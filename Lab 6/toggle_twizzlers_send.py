@@ -2,10 +2,10 @@ import time
 import board
 import busio
 import adafruit_mpr121
-import qwiic_joystick
 
 import paho.mqtt.client as mqtt
 import uuid
+import qwiic_joystick
 
 client = mqtt.Client(str(uuid.uuid1()))
 client.tls_set()
