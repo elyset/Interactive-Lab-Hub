@@ -27,7 +27,8 @@ while True:
 
     #for i in range(12):
         #if mpr121[i].value:
-        val = f"Twizzler moved left!"
+        #val = f"Twizzler moved left!"
+        
         print(val)
-        client.publish(topic, val)
+        client.publish(topic, "Twizzler moved left")
     time.sleep(0.25)
