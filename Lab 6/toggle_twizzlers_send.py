@@ -23,12 +23,12 @@ myJoystick.begin()
 #mpr121 = adafruit_mpr121.MPR121(i2c)
 
 while True:
-    if myJoystick.horizontal == 0 and myJoystick.vertical == 506:
+    if myJoystick.button == 0:
 
     #for i in range(12):
         #if mpr121[i].value:
-        #val = f"Twizzler moved left!"
+        val = f"Twizzler touched!"
         
         print(val)
-        client.publish(topic, "Twizzler moved left")
+        client.publish(topic, val)
     time.sleep(0.25)
