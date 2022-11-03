@@ -131,6 +131,9 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 
 I used the joystick to implement data streaming. When the joystick is pressed it will say "Twizzler touched!"
 
+<img width="275" alt="Screen Shot 2022-11-03 at 4 12 10 PM" src="https://user-images.githubusercontent.com/61363525/199824446-e827ce02-b82e-4740-b5b2-00b87fc89192.png">
+
+<img width="156" alt="Screen Shot 2022-11-03 at 4 12 25 PM" src="https://user-images.githubusercontent.com/61363525/199824489-3b24249d-9450-4e5a-9bf1-efed5aba6b87.png">
 
 
 
