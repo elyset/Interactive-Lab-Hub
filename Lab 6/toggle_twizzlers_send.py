@@ -18,12 +18,12 @@ client.connect(
 topic = 'IDD/your/topic/here'
 
 #i2c = busio.I2C(board.SCL, board.SDA)
-joystick = qwiic_joystick.QwiicJoystick()
-
+myJoystick = qwiic_joystick.QwiicJoystick()
+myJoystick.begin()
 #mpr121 = adafruit_mpr121.MPR121(i2c)
 
 while True:
-    if joystick.horizontal == 0 and joystick.vertical == 506:
+    if myJoystick.horizontal == 0 and myJoystick.vertical == 506:
 
     #for i in range(12):
         #if mpr121[i].value:
