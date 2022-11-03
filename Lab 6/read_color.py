@@ -104,7 +104,7 @@ while True:
     # if we press the button, send msg to cahnge everyones color
     if not buttonA.value:
         client.publish(topic, f"{r},{g},{b}")
-    draw.rectangle((0, height*0.5, width, height), fill=color[:3])
-    disp.image(image)
+   # draw.rectangle((0, height*0.5, width, height), fill=color[:3])
+   # disp.image(image)
     time.sleep(.01)
     
