@@ -129,6 +129,10 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
+I used the joystick to implement data streaming. When the joystick is pressed it will say "Twizzler touched!"
+
+
+
 
 ### Part D
 ### The One True ColorNet
