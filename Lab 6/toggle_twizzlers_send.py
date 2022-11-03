@@ -3,7 +3,7 @@ import board
 import busio
 import adafruit_mpr121
 
-import paho.mqtt.client as mqtt
+#import paho.mqtt.client as mqtt
 import uuid
 import qwiic_joystick
 
