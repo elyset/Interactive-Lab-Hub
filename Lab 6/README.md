@@ -96,6 +96,12 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
+1. Some sort of alarm system. When movement is detected, a message will be sent to the reciever saying there is movement. 
+2. A pi-pager. Messages can be sent to one another through code like a pager did.
+3. Multi-player games such as a draw and guess game were the one use will draw a card, and the user other would gave to guess what the card is.
+4. Long-distance message sender where the user can press a button and the reciever would be notificed that their significant other misses them.
+5. Some sort of notofication system. For example, if you forget to pick up your keys before you open the door, the system will tell you to get them.
+
 ### Part C
 ### Streaming a Sensor
 
