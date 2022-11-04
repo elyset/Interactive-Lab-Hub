@@ -202,8 +202,5 @@ The video starts when the user is walking to the door to get their shoes to leav
 
 https://user-images.githubusercontent.com/61363525/199872929-c7f89c6b-f08f-499a-80c1-f9abce98d4a3.mov
 
-
-I docmented walking to 
-
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
