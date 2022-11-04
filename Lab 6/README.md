@@ -177,18 +177,31 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
-If you take your shoes from the shoe rack and put them on the floor, the system will send you a message saying reminding you to pick up your keys before you leave the house. The reason why it I want the system to detect when you put the shoes on the floor is becuase you need to put on your shoes before you leave the house, so having message set off after that works well. 
+If you take your shoes from the shoe rack and put them on the floor, the system will send you a message saying reminding you to pick up your keys before you leave the house. The reason why it I want the system to detect when you take your shoes from the rack is becuase you need to put on your shoes before you leave the house, so having message set off after that works well. 
 
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+![IMG_351A3859E7CF-1](https://user-images.githubusercontent.com/61363525/199872488-9306efb5-d744-4ff8-890f-fea4cdf7fc6d.jpeg)
+
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
 This working system is pretty simple, if someone were to just see they should see how it works. The sensor connected to the foil is places so that your hands will touch it no matter what when you are reaching for your shoes. When you stand up to put your shoes on, you will see the message popup on the laptop reminding you about your keys. I decided to put the pi and the sensor inside of a sorage box becuase it simultaneously hides the pi and wires, but it is also what is usually in that area so it is very well concealed. 
 
+![IMG_1753](https://user-images.githubusercontent.com/61363525/199872664-dd2c46d0-3d86-4904-be3a-1d3778a89ef1.jpg)
+
+![IMG_1754](https://user-images.githubusercontent.com/61363525/199872676-0d7b6e16-a91d-4bb5-a906-068a71d24745.jpg)
+
+![IMG_1755](https://user-images.githubusercontent.com/61363525/199872695-a5683c7c-d178-47cc-96eb-c7600a7ca8f6.jpg)
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
+The video starts when the user is walking to the door to get their shoes to leave the apartment. They then reach for their shoes and it triggers and sensor. It then sends a reminder to the user to remember their keys before leaving the apartment. 
 
+https://user-images.githubusercontent.com/61363525/199872929-c7f89c6b-f08f-499a-80c1-f9abce98d4a3.mov
+
+
+I docmented walking to 
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
