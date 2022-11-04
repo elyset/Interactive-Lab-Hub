@@ -22,10 +22,10 @@ mpr121 = adafruit_mpr121.MPR121(i2c)
 
 while True:
     for i in range(12):
-        print(mpr121[i].value)
-        if mpr121[i].value == 7:
+        if mpr121[i].value:
             #print(mpr121[i].value)
-        	val = f"Don't forget to bring your keys!"
-        	print(val)
-        	client.publish(topic, val)
+            if i == 7:
+                val = f"Don't forget to bring your keys!"
+                print(val)
+                client.publish(topic, val)
     time.sleep(0.25)
