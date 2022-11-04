@@ -183,6 +183,10 @@ If you take your shoes from the shoe rack and put them on the floor, the system 
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
+This working system is pretty simple, if someone were to just see they should see how it works. The sensor connected to the foil is places so that your hands will touch it no matter what when you are reaching for your shoes. When you stand up to put your shoes on, you will see the message popup on the laptop reminding you about your keys. I decided to put the pi and the sensor inside of a sorage box becuase it simultaneously hides the pi and wires, but it is also what is usually in that area so it is very well concealed. 
+
+
+
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
