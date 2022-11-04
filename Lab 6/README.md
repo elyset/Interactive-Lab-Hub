@@ -129,7 +129,7 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
-I used the joystick to implement data streaming. When the joystick is pressed it will say "Twizzler touched!"
+I used the joystick to implement data streaming. When the joystick is pressed it will say "Twizzler touched!". The code is in the toggle_twizzlers_send.py file.
 
 <img width="275" alt="Screen Shot 2022-11-03 at 4 12 10 PM" src="https://user-images.githubusercontent.com/61363525/199824446-e827ce02-b82e-4740-b5b2-00b87fc89192.png">
 
@@ -174,6 +174,8 @@ This is the read_color.py file.
 ### Make it your own
 
 Find at least one class (more are okay) partner, and design a distributed application together based on the exercise we asked you to do in this lab.
+
+code is in the forget_keys.py file
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
