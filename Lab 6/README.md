@@ -202,5 +202,7 @@ The video starts when the user is walking to the door to get their shoes to leav
 
 https://user-images.githubusercontent.com/61363525/199872929-c7f89c6b-f08f-499a-80c1-f9abce98d4a3.mov
 
+Although this was preformed by one person, this message can be sent to both the person leaving the apartment and others that live in the apartment to ensure that the person leaving remembers their keys.
+
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
