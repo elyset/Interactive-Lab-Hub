@@ -8,8 +8,8 @@ import uuid
 
 from twilio.rest import Client
 
-TWILIO_ACCOUNT_SID = 'ACd96e8a3f32c9309ab7e87a27e332804b' # Account SID
-TWILIO_AUTH_TOKEN = '37f90d364e158015b96c7ad0bca462fd' # Auth Token
+TWILIO_ACCOUNT_SID = '****' # Account SID
+TWILIO_AUTH_TOKEN = '****' # Auth Token
 TWILIO_PHONE_SENDER = "8656013981" # phone number registered in twilio
 TWILIO_PHONE_RECIPIENT = "9173186696" # my phone number
 
