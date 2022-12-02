@@ -24,6 +24,13 @@ Hey Elyse! Here is your checklist for leaving the house:
 ✓ Water for dog
 ✓ Work laptop
 '''
+body2 = '''
+Hey Elyse! Here is your running 🏃‍♀️ checklist for leaving the house:
+✓ Keys
+✓ Wallet
+✓ Water bottle
+✓ Earphones
+'''
 
 while True:
     for i in range(12):
@@ -34,6 +41,13 @@ while True:
                     to=TWILIO_PHONE_RECIPIENT,
                     from_=TWILIO_PHONE_SENDER,
                     body=body)
+                print(message.sid) 
+            if i == 1:
+                client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
+                message = client.messages.create(
+                    to=TWILIO_PHONE_RECIPIENT,
+                    from_=TWILIO_PHONE_SENDER,
+                    body=body2)
                 print(message.sid) 
 
 
