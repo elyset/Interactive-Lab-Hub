@@ -26,4 +26,11 @@ Risks: never tried to send a text from pi to phone before but I have seen it don
 Instead of text messages, have it connect to Tinkerbelle or some sort of hosted webpage that can be accessed on the phone. I could also just have it text my phone instead of others that are not in the vicinity of the pi.
 
 
+# Project Write-Up
+
+**Idea:** 
+When the user takes their shoes from the shoe rack, they will recieve a text on their phone with a list of reminders they should go over before they leave the apartment. Depending on which shoe you take, you will recieve a different text message. For example, if the user takes the shoes they wear for work, it will show reminders for work related items such as a work laptop, and lunch. On the other hand, if the user takes their running shoes, they will be reminded to bring a watter bottle. In addition, the reason why the text is triggered when the user picks up their shoes, is becuase that is the last thing they would do before they would leave their house. 
+
+**How it Works:**
+
 
