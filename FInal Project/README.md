@@ -32,7 +32,8 @@ Instead of text messages, have it connect to Tinkerbelle or some sort of hosted 
 When the user takes their shoes from the shoe rack, they will recieve a text on their phone with a list of reminders they should go over before they leave the apartment. Depending on which shoe you take, you will recieve a different text message. For example, if the user takes the shoes they wear for work, it will show reminders for work related items such as a work laptop, and lunch. On the other hand, if the user takes their running shoes, they will be reminded to bring a watter bottle. In addition, the reason why the text is triggered when the user picks up their shoes, is becuase that is the last thing they would do before they would leave their house. 
 
 **How it Works:**
-![IMG_F9BA9C34CE09-1](https://user-images.githubusercontent.com/61363525/205417584-94557071-aa73-4899-a576-bc7bcb965222.jpeg)
+![IMG_F9BA9C34CE09-1](https://user-images.githubusercontent.com/61363525/205417646-b4927013-5858-42e4-bcc1-654fcab4b4cf.jpg)
 
-![IMG_6B26F0DA3FBA-1](https://user-images.githubusercontent.com/61363525/205417588-d15cb479-5f83-4266-b65b-764b4d73d4db.jpeg)
+![IMG_6B26F0DA3FBA-1](https://user-images.githubusercontent.com/61363525/205417647-70dbf610-831b-4997-9229-cbb63eaae537.jpg)
+
 
