@@ -8,8 +8,8 @@ import uuid
 
 from twilio.rest import Client
 
-TWILIO_ACCOUNT_SID = 'ACd96e8a3f32c9309ab7e87a27e332804b' # Account SID
-TWILIO_AUTH_TOKEN = '37f90d364e158015b96c7ad0bca462fd' # Auth Token
+TWILIO_ACCOUNT_SID = '****' # Account SID
+TWILIO_AUTH_TOKEN = '****' # Auth Token
 TWILIO_PHONE_SENDER = "8656013981" # phone number registered in twilio
 TWILIO_PHONE_RECIPIENT = "9173186696" # my phone number
 
@@ -39,13 +39,6 @@ Hey Elyse! Here is your 🐕 walking dog 🐕 checklist for leaving the house:
 ✓ Treats
 ✓ Tennis Ball
 '''
-# body4 = '''
-# Hey Elyse! Here is your 👠 fancy dinner 👠 checklist for leaving the house:
-# ✓ Keys
-# ✓ Wallet
-# ✓ Lipstick
-# ✓ Add Water in Dog Bowl
-# '''
 
 while True:
     for i in range(12):
@@ -71,12 +64,6 @@ while True:
                     from_=TWILIO_PHONE_SENDER,
                     body=body3)
                 print(message.sid)
-            # if i == 11:
-            #     client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
-            #     message = client.messages.create(
-            #         to=TWILIO_PHONE_RECIPIENT,
-            #         from_=TWILIO_PHONE_SENDER,
-            #         body=body4)
-            #     print(message.sid)    
+             
 
 
