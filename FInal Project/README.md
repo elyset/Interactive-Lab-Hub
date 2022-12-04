@@ -16,7 +16,8 @@ This image shows which sensor port connects to which shoe and what the text mess
 **Progress:**
 
 While working on this assignment I wanted to make sure that the reminders are very personal, becuase they would be generated for that person so I started all of them with "Hey [insert user name]". In addition I added "your" in reference to the list to keep with the personal tone. In one of the first renditions of the texts, it looked like this:
-<img src="https://user-images.githubusercontent.com/61363525/205475618-d25042cd-2d61-4ac2-9700-645bcdf3c6e6.jpeg" width=40% height=40%>
+
+<img src="https://user-images.githubusercontent.com/61363525/205475618-d25042cd-2d61-4ac2-9700-645bcdf3c6e6.jpeg" width=30% height=30%>
 
 Although this looked pretty good, when I created different reminders for different shoes, I added emojis to make sure the reminder for the task name stands out. Even if they skim the reminder, the emoji would catch their attention.
 
