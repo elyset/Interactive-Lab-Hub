@@ -15,6 +15,8 @@ This image shows which sensor port connects to which shoe and what the text mess
 
 **Set Up:**
 
+I hid the pi by putting it in a bin that looks like it already belongs on the shoe rack. I put the shoes on the rack below it and hang the alligator clips above the shoes. The shoe rack is also right beside the door becuase the user would be leaving the apartment after they get their shoes.
+
 <img src="https://user-images.githubusercontent.com/61363525/205475093-2489d131-a639-401e-a0fe-4bac0081091b.jpg" width=30% height=30%>
 
 
@@ -35,8 +37,8 @@ Special guest: My dog decided to join the filming of one of my videos
 https://user-images.githubusercontent.com/61363525/205474836-2f9f13ac-792e-4c9f-ada0-0181a3ab63d9.MOV
 
 
-
 **Reflection:**
+
 
 # Project Plan 
 
