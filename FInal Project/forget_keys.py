@@ -18,12 +18,11 @@ i2c = busio.I2C(board.SCL, board.SDA)
 mpr121 = adafruit_mpr121.MPR121(i2c)
 
 body = '''
-Hey Elyse! Here is your 💼 work 💼 checklist for leaving the house:
+Hey Elyse! Here is your 🛒 errand 🛒 checklist for leaving the house:
 ✓ Keys
 ✓ Wallet
-✓ Add Water in Dog Bowl
-✓ Work laptop
-✓ Lunch
+✓ Shopping Bag
+✓ Earphones
 '''
 body2 = '''
 Hey Elyse! Here is your 🏃‍♀️ running 🏃‍♀️ checklist for leaving the house:
