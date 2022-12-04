@@ -16,6 +16,8 @@ This image shows which sensor port connects to which shoe and what the text mess
 **Video Demonstration:**
 
 
+**Reflection:**
+
 # Project Plan 
 
 **Big idea:** 
