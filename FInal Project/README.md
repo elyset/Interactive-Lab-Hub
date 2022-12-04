@@ -14,7 +14,7 @@ This image shows which sensor port connects to which shoe and what the text mess
 
 **Set Up:**
 
-<img src="https://user-images.githubusercontent.com/61363525/205475093-2489d131-a639-401e-a0fe-4bac0081091b.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/61363525/205475093-2489d131-a639-401e-a0fe-4bac0081091b.jpg" width=60% height=60%>
 
 
 **Video Demonstration:**
