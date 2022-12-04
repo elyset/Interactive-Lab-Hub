@@ -39,18 +39,18 @@ Hey Elyse! Here is your 🐕 walking dog 🐕 checklist for leaving the house:
 ✓ Treats
 ✓ Tennis Ball
 '''
-body4 = '''
-Hey Elyse! Here is your 👠 fancy dinner 👠 checklist for leaving the house:
-✓ Keys
-✓ Wallet
-✓ Lipstick
-✓ Add Water in Dog Bowl
-'''
+# body4 = '''
+# Hey Elyse! Here is your 👠 fancy dinner 👠 checklist for leaving the house:
+# ✓ Keys
+# ✓ Wallet
+# ✓ Lipstick
+# ✓ Add Water in Dog Bowl
+# '''
 
 while True:
     for i in range(12):
         if mpr121[i].value:
-            if i == 7:
+            if i == 4:
                 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
                 message = client.messages.create(
                     to=TWILIO_PHONE_RECIPIENT,
@@ -64,19 +64,19 @@ while True:
                     from_=TWILIO_PHONE_SENDER,
                     body=body2)
                 print(message.sid)
-            if i == 4:
+            if i == 3:
                 client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
                 message = client.messages.create(
                     to=TWILIO_PHONE_RECIPIENT,
                     from_=TWILIO_PHONE_SENDER,
                     body=body3)
                 print(message.sid)
-            if i == 11:
-                client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
-                message = client.messages.create(
-                    to=TWILIO_PHONE_RECIPIENT,
-                    from_=TWILIO_PHONE_SENDER,
-                    body=body4)
-                print(message.sid)    
+            # if i == 11:
+            #     client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
+            #     message = client.messages.create(
+            #         to=TWILIO_PHONE_RECIPIENT,
+            #         from_=TWILIO_PHONE_SENDER,
+            #         body=body4)
+            #     print(message.sid)    
 
 
