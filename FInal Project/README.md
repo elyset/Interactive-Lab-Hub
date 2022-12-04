@@ -13,6 +13,10 @@ The user touches the foil while picking up their shoes. The foil is connected to
 This image shows which sensor port connects to which shoe and what the text message recieved will look like. 
 <img src="https://user-images.githubusercontent.com/61363525/205475390-b615475f-1477-4f41-90e3-b5f1f476f208.jpeg" width=60% height=60%>
 
+**Progress:**
+
+While working on this assignment I wanted to make sure that the reminders are very personal, becuase they would be generated for that person so I started all of them with "Hey [insert user name]" 
+
 **Set Up:**
 
 I hid the pi by putting it in a bin that looks like it already belongs on the shoe rack. I put the shoes on the rack below it and hang the alligator clips above the shoes. The shoe rack is also right beside the door becuase the user would be leaving the apartment after they get their shoes.
