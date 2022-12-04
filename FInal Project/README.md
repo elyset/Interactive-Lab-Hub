@@ -12,10 +12,26 @@ The user touches the foil while picking up their shoes. The foil is connected to
 This image shows which sensor port connects to which shoe and what the text message recieved will look like. 
 ![IMG_6B26F0DA3FBA-1](https://user-images.githubusercontent.com/61363525/205417647-70dbf610-831b-4997-9229-cbb63eaae537.jpg)
 
+**Set Up:**
+
+<img src="https://user-images.githubusercontent.com/61363525/205475093-2489d131-a639-401e-a0fe-4bac0081091b.jpg" width=50% height=50%>
+
 
 **Video Demonstration:**
 
 Scenario 1: You are you are going on a jog
+https://drive.google.com/file/d/1iOUbULt2YdQoWRARsVMJ0mi3UDfRT_9s/view?usp=sharing
+
+
+Scenario 2: You are you are taking your dog on a walk
+https://drive.google.com/file/d/1T-KUsDiQJasNR0t9AY4PDu1TwHE8s0rL/view?usp=sharing
+
+Scenario 1: You are you are running errands 
+https://drive.google.com/file/d/12yarIZa-DF5XJiBtAu0IccZml6kKdj35/view?usp=sharing
+
+Special guest: My dog decided to join the filming of one of my videos
+
+https://user-images.githubusercontent.com/61363525/205474836-2f9f13ac-792e-4c9f-ada0-0181a3ab63d9.MOV
 
 
 
