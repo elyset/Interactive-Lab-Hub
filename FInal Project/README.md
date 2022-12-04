@@ -19,7 +19,7 @@ While working on this assignment I wanted to make sure that the reminders are ve
 
 <img src="https://user-images.githubusercontent.com/61363525/205475618-d25042cd-2d61-4ac2-9700-645bcdf3c6e6.jpeg" width=30% height=30%>
 
-Although this looked pretty good, when I created different reminders for different shoes, I added emojis to make sure the reminder for the task name stands out. Even if they skim the reminder, the emoji would catch their attention.
+Although this looked pretty good, when I created different reminders for different shoes, I added emojis to make sure the reminder for the task name stands out. Even if the user skim the reminder, the emoji would catch their attention.
 
 **Set Up:**
 
@@ -49,6 +49,10 @@ https://user-images.githubusercontent.com/61363525/205474836-2f9f13ac-792e-4c9f-
 
 
 **Reflection:**
+
+What have you learned or wish you knew at the start?
+
+I learned that the pi had a lot more capabibilities than I thought. I also I learned the pi can be a very usefull tool for everyday life, especially if it was used as some sort of reminder system for everyday life that the user can adapt to what they like.  
 
 
 # Project Plan 
