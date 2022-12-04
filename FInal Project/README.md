@@ -54,6 +54,9 @@ What have you learned or wish you knew at the start?
 
 I learned that the pi had a lot more capabibilities than I thought. I also I learned the pi can be a very usefull tool for everyday life, especially if it was used as some sort of reminder system for everyday life that the user can adapt to what they like.  
 
+**Teammates:** 
+
+I did this on my own.
 
 # Project Plan 
 
