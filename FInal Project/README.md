@@ -10,7 +10,7 @@ The user touches the foil while picking up their shoes. The foil is connected to
 <img src="https://user-images.githubusercontent.com/61363525/205417646-b4927013-5858-42e4-bcc1-654fcab4b4cf.jpg" width=50% height=50%>
 
 This image shows which sensor port connects to which shoe and what the text message recieved will look like. 
-<img src="https://user-images.githubusercontent.com/61363525/205417647-70dbf610-831b-4997-9229-cbb63eaae537.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/61363525/205475390-b615475f-1477-4f41-90e3-b5f1f476f208.jpeg" width=50% height=50%>
 
 **Set Up:**
 
