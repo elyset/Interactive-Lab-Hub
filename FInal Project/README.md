@@ -23,13 +23,16 @@ I hid the pi by putting it in a bin that looks like it already belongs on the sh
 **Video Demonstration:**
 
 Scenario 1: You are you are going on a jog
+
 https://drive.google.com/file/d/1iOUbULt2YdQoWRARsVMJ0mi3UDfRT_9s/view?usp=sharing
 
 
 Scenario 2: You are you are taking your dog on a walk
+
 https://drive.google.com/file/d/1T-KUsDiQJasNR0t9AY4PDu1TwHE8s0rL/view?usp=sharing
 
-Scenario 1: You are you are running errands 
+Scenario 3: You are you are running errands 
+
 https://drive.google.com/file/d/12yarIZa-DF5XJiBtAu0IccZml6kKdj35/view?usp=sharing
 
 Special guest: My dog decided to join the filming of one of my videos
