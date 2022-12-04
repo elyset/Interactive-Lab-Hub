@@ -7,10 +7,10 @@ When the user takes their shoes from the shoe rack, they will recieve a text on 
 **How it Works:**
 
 The user touches the foil while picking up their shoes. The foil is connected to an alligator clip which is connected to the captive sensor on the other side. the captive sensor is connected to the Pi. That goes through a program that connects to the Twilio SDK which then sends a text message to their phone. 
-![IMG_F9BA9C34CE09-1](https://user-images.githubusercontent.com/61363525/205417646-b4927013-5858-42e4-bcc1-654fcab4b4cf.jpg)
+<img src="https://user-images.githubusercontent.com/61363525/205417646-b4927013-5858-42e4-bcc1-654fcab4b4cf.jpg" width=50% height=50%>
 
 This image shows which sensor port connects to which shoe and what the text message recieved will look like. 
-![IMG_6B26F0DA3FBA-1](https://user-images.githubusercontent.com/61363525/205417647-70dbf610-831b-4997-9229-cbb63eaae537.jpg)
+<img src="https://user-images.githubusercontent.com/61363525/205417647-70dbf610-831b-4997-9229-cbb63eaae537.jpg" width=50% height=50%>
 
 **Set Up:**
 
