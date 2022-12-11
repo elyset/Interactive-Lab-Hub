@@ -39,7 +39,7 @@ Scenario 1: You are you are going on a jog
 https://drive.google.com/file/d/1iOUbULt2YdQoWRARsVMJ0mi3UDfRT_9s/view?usp=sharing
 
 
-Scenario 2: You are you are taking your dog on a walk
+Scenario 2: You are taking your dog on a walk
 
 https://drive.google.com/file/d/1T-KUsDiQJasNR0t9AY4PDu1TwHE8s0rL/view?usp=sharing
 
