@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/61363525/205474836-2f9f13ac-792e-4c9f-
 
 What have you learned or wish you knew at the start?
 
-I learned that the pi had a lot more capabibilities than I thought. I also I learned the pi can be a very usefull tool for everyday life, especially if it was used as some sort of reminder system for everyday life that the user can adapt to what they like.  
+I learned that the pi had a lot more capabilities than I thought. I also I learned the pi can be a very useful tool for everyday life, especially if it was used as some sort of reminder system for everyday life that the user can adapt to what they like. in addition,  learned to expand on my ideas more, so that they can be used within one or more scenario. For example, once I got my feedback about how I could customize the reminder for each different shoe, it opened a whole new world of possibilities of what the project could be used for.
 
 **Teammates:** 
 
