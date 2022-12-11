@@ -15,15 +15,19 @@ This image shows which sensor port connects to which shoe and what the text mess
 
 **Progress:**
 
-While working on this assignment I wanted to make sure that the reminders are very personal, becuase they would be generated for that person so I started all of them with "Hey [insert user name]". In addition I added "your" in reference to the list to keep with the personal tone. In one of the first renditions of the texts, it looked like this:
+I first started with what I created from assignment 6. I then did a lot of research on the possibilities on sending text messages from the pi. From that research I learned that there is a Twilio SDK that could be used. The first time I tried it it worked! But there was a problem, the text messages from the free account included the phrase "Sent from your Twilio trial account" before the message you wanted to send. This is what the message looked like:
+
+<img src="https://user-images.githubusercontent.com/61363525/206934296-c84a2f93-1209-4863-b752-588adb109dc3.PNG" width=30% height=30%>
+
+It made the message look very impersonal and a bit awkward. So, I purchased the permium version which got rid of that first phrase and sent the text the way I wanted it to look. After that, I focused more on makeing sure the messages were personal becuase they would be generated for that specific person so I started all of them with "Hey [insert user name]". In addition I added "your" in reference to the list to keep with the personal tone. In one of the first renditions of the texts, it looked like this:
 
 <img src="https://user-images.githubusercontent.com/61363525/205475618-d25042cd-2d61-4ac2-9700-645bcdf3c6e6.jpeg" width=30% height=30%>
 
-Although this looked pretty good, when I created different reminders for different shoes, I added emojis to make sure the reminder for the task name stands out. Even if the user skim the reminder, the emoji would catch their attention.
+Although this looked pretty good, I wanted to make sure that the specific use of the shoe was highlighted just incase the user skims that part of the message. So, when I created different reminders for different shoes, I added emojis to make sure the reminder for the task name stands out to catch the user's attention.
 
 **Set Up:**
 
-I hid the pi by putting it in a bin that looks like it already belongs on the shoe rack. I put the shoes on the rack below it and hang the alligator clips above the shoes. The shoe rack is also right beside the door becuase the user would be leaving the apartment after they get their shoes.
+I hid the pi by putting it in a bin that looks like it already belongs on the shoe rack. I put the shoes on the rack below it and hung the alligator clips above the shoes. The shoe rack is also right beside the door becuase the user would be leaving the apartment after they get their shoes.
 
 <img src="https://user-images.githubusercontent.com/61363525/205475093-2489d131-a639-401e-a0fe-4bac0081091b.jpg" width=30% height=30%>
 
