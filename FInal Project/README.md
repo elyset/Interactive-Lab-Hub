@@ -19,11 +19,11 @@ I first started with what I created from assignment 6. I then did a lot of resea
 
 <img src="https://user-images.githubusercontent.com/61363525/206934296-c84a2f93-1209-4863-b752-588adb109dc3.PNG" width=30% height=30%>
 
-It made the message look very impersonal and a bit awkward. So, I purchased the permium version which got rid of that first phrase and sent the text the way I wanted it to look. After that, I focused more on makeing sure the messages were personal becuase they would be generated for that specific person so I started all of them with "Hey [insert user name]". In addition I added "your" in reference to the list to keep with the personal tone. In one of the first renditions of the texts, it looked like this:
+It made the message look very impersonal and a bit awkward. So, I purchased the permium version which got rid of that first phrase and sent the text the way I wanted it to look. After that, I focused more on making sure the messages were personal becuase they would be generated for that specific person. I started all of them with "Hey [insert user name]". In addition I added "your" in reference to the list to keep with the personal tone. In one of the first renditions of the texts, it looked like this:
 
 <img src="https://user-images.githubusercontent.com/61363525/205475618-d25042cd-2d61-4ac2-9700-645bcdf3c6e6.jpeg" width=30% height=30%>
 
-Although this looked pretty good, I wanted to make sure that the specific use of the shoe was highlighted just incase the user skims that part of the message. So, when I created different reminders for different shoes, I added emojis to make sure the reminder for the task name stands out to catch the user's attention.
+Although this looked pretty good, I wanted to make sure that the specific use of the shoe was highlighted just incase the user skims that part of the message. So, I added emojis on both sides of the specific task, for example "🐕 walking dog 🐕", to make sure the reminder for the task name stands out to catch the user's attention.
 
 **Set Up:**
 
